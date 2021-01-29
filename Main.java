@@ -24,7 +24,7 @@ class Main {
 	// junior method determins if you are a junior or not.
 	static boolean junior(int yearsToGo){
 		if (yearsToGo == 2){
-			return true;
+			System.out.println("Congrats one year to go!");
 		} else{
 			return false;
 		}
